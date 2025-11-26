@@ -1,0 +1,1 @@
+A clean, organized collection of Python notes created for quick reference and efficient learning. Covers essential concepts, practical examples, and patterns you actually use in real code not the textbook fluff.
